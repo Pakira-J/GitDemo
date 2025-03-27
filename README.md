@@ -1,2 +1,2 @@
 # GitDemo
-This is my first repository. Learning more about Git, Github and VS code integration.
+This is my first repository. <br>Learning more about Git, Github and VS code integration.
